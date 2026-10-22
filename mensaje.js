@@ -1,7 +1,7 @@
 
 const readline = require("readline");
 
-// Colores para mejorar la apariencia en la terminal
+
 const colores = {
     reset: "\x1b[0m",
     azul: "\x1b[34m",
